@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "11476060-9",
+        "Establecimiento": "Hospital Público",
+        "Unidad": "Unidad Centro Costo",
+        "Escalafón": "Profesional",
+        "Asig_Profesional": true,
+        "Asig_Especial": 0,
+        "Grado": "10",
+        "N_Bienios": 2   
+     },
+     {
+        "Id": "12489433-6",
+        "Establecimiento": "Hospital Público",
+        "Unidad": "Unidad Centro Costo",
+        "Escalafón": "Técnico",
+        "Asig_Profesional": false,
+        "Asig_Especial": 0,
+        "Grado": "14",
+        "N_Bienios": 4   
+     },
+     {
+        "Id": "11198214-7",
+        "Establecimiento": "Hospital Público",
+        "Unidad": "Unidad Centro Costo",
+        "Escalafón": "Administrativo",
+        "Asig_Profesional": false,
+        "Asig_Especial": 145000,
+        "Grado": "23",
+        "N_Bienios": 0   
+     }   
+]
